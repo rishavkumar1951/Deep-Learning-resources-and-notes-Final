@@ -1,0 +1,145 @@
+4. Execute Code
+
+5. Perceptron Trick | How to train a Perceptron | Perceptron Part 2 | Deep Learning Full Course
+    perceptron-trick.ipynb
+
+6. Perceptron Loss Function | Hinge Loss | Binary Cross Entropy | Sigmoid Function
+    perceptron_loss_function(hinge).ipynb
+	*see types of loss function in perceptron-trick
+	*see fromula of sigmoid, binary and categorical cross entropy
+
+7. Problem with Perceptron
+    Problem_with_perceptron.ipynb
+
+11. Customer Churn Prediction using ANN | Keras and Tensorflow | Deep Learning Classification
+        Do practical    https://www.kaggle.com/code/campusx/notebook8ad570467f
+        Customer Churn Prediction using ANN.ipynb
+                  
+12. Handwritten Digit Classification using ANN | MNIST Dataset
+        Do Practical    https://colab.research.google.com/drive/1SqETl3Zi1EEesdJfEv6_QimB-M-YjKGx?usp=sharing
+        mnist-classification.ipynb
+                                              
+13. Graduate Admission Prediction using ANN
+        Do Practical    https://www.kaggle.com/code/rishav1951/gre-admission-prediction/edit
+        gre-admission-prediction.ipynb
+
+16. Backpropagation Part 2 | The How | Complete Deep Learning Playlist
+    Backpropagation Regression - https://colab.research.google.com/drive/1kIljMvDFx7dyyDXTMsd1fEkg9Q24xhIE?usp=sharing
+    Backpropagation Classification - https://colab.research.google.com/drive/1dJZZdhngq4eN83sQCupyh2QbyzrsBB-e?usp=sharing
+    Using keras:     using-keras.ipynb
+    Keras also did not loss function less than our function.
+    So, this is normally good solution for given i/p.
+
+
+20  Vanishing Gradient Problem in ANN | Exploding Gradient Problem | Code Example
+    vanishing-gradient.ipynb    https://colab.research.google.com/drive/1j1qAWzo6sjNU3f_vkMMijOAuFi1JoV8p?usp=sharing
+
+22  Early Stopping In Neural Networks | End to End Deep Learning Course
+    early-stopping.ipynb    https://colab.research.google.com/drive/1JG6PCAa5A0-CLOcKhugqU4uyZXWNjtKP?usp=sharing
+
+
+23  Data Scaling in Neural Network | Feature Scaling in ANN | End to End Deep Learning Course
+    feature-scaling.ipynb   https://colab.research.google.com/drive/1lexRUY37fJd6op-WiJicPRB65PwA8YaO?usp=sharing
+
+
+25  Dropout Layers in ANN | Code Example | Regression | Classification
+	dropout_notebook.ipynb
+    dropout-classification-example.ipynb    https://colab.research.google.com/drive/1KyMLdV1yB0qVdS-1huxKMN9xVKhrfxGL?usp=sharing
+    Test for dropout ration 0.5 and check differences.
+    Regression: https://drive.google.com/file/d/1p9I76sny0zyIX9VNBEivj6TJaFGwj0GG/view
+
+
+26  Regularization in Deep Learning | L2 Regularization in ANN | L1 Regularization | Weight Decay in ANN
+    regularization.ipynb    https://colab.research.google.com/drive/1PObj5KrXLDDmHjoJ1x0bVmxAFbif5s7q?usp=sharing
+
+27	activation_function.ipynb
+
+29  Weight Initialization Techniques | What not to do? | Deep Learning
+    zero-initialization-relu.ipynb  https://colab.research.google.com/drive/1bsVRmTjYjiQUFee3REHCYeY3vv5r7nfH?usp=sharing
+        check for both relu and tanh function and observe loss curve.
+    zero-initialization-sigmoid.ipynb   https://colab.research.google.com/drive/1M4q5yRA0iQXh9h8Y3J7zFGIQzO_Pv9n0?usp=sharing
+
+
+30  Xavier/Glorat And He Weight Initialization in Deep Learning
+    Untitled26.ipynb    https://colab.research.google.com/drive/1Z3pWYFWgUKP7htokOj201APi574a3-vY?usp=sharing#scrollTo=id8rhK5OtzVX
+    Both demonstration Xavier and He in above code.
+
+
+31  Batch Normalization in Deep Learning | Batch Learning in Keras
+    batch-norm-example.ipynb    https://colab.research.google.com/drive/1473vOd0lCPbRW-co_Rm-_TBXgeajkJZ_?usp=sharing
+
+33 Exponentially Weighted Moving Average or Exponential Weighted Average
+    33 Exponentially Weighted Moving Average or Exponential Weighted Average.ipynb
+
+
+40  Keras Tuner | Hyperparameter Tuning a Neural Network
+    11. Hyper_Parameter_tuning_in_ANN.ipynb
+
+
+43  Padding & Strides in CNN | CNN Lecture 4 | Deep Learning
+    keras-padding-demo.ipynb    https://colab.research.google.com/drive/1HBMLctcBnhvV6Rj62Zc8eAXERQw54l2H?usp=sharing
+
+44  Pooling Layer in CNN | MaxPooling in Convolutional Neural Network
+    keras-pooling-demo.ipynb    https://colab.research.google.com/drive/1F4F6Q9O-hPvCDeOWcqMUa5BuBOvuOBWc?usp=sharing
+    visualize   https://deeplizard.com/resource/pavq7noze3
+
+
+45  CNN Architecture | LeNet -5 Architecture
+    4. LeNet_Architecture.ipynb
+    
+46  Comparing CNN Vs ANN | CampusX
+47  Backpropagation in CNN | Part 1 | Deep Learning
+
+48  CNN Backpropagation Part 2 | How Backpropagation works on Convolution, Maxpooling and Flatten Layers
+
+49  Cat Vs Dog Image Classification Project | Deep Learning Project | CNN Project
+    Do practical
+
+50  Data Augmentation in Deep Learning | CNN
+    Do practical
+
+51  Pretrained models in CNN | ImageNET Dataset | ILSVRC | Keras Code
+    7. pre_trained_model.ipynb
+
+
+52  What does a CNN see? | Visualizing CNN Filters and Feature Maps | CampusX
+    Must do practical : 8. visualising_cnn.ipynb
+	using-pretrained-model.ipynb
+
+53  What is Transfer Learning? Transfer Learning in Keras | Fine Tuning Vs Feature Extraction
+    9. transfer_learning_feature_extraction(without_data_augmentation).ipynb
+    10. transfer_learning_feature_extraction(data_augmentation)_ipynb.ipynb
+    11. transfer_learning_finetuning.ipynb
+
+
+
+54  Keras Functional Model | How to build non-linear Neural Networks?
+    Do these practicals         
+    functional-api-demo.ipynb   https://colab.research.google.com/drive/1uCHf6hoLR1a-46RznVjqnhVZNechF0fz?usp=sharing
+    functional-api-multiple-input.ipynb     https://colab.research.google.com/drive/1pKfnYBal9HhuwRADU0FrWaVJ11_llk8-?usp=sharing
+    age-gender-revised.ipynb        https://colab.research.google.com/drive/1B2azaSX9g55olY473c7WAMf3E5-717Ge?usp=sharing
+
+
+56  Recurrent Neural Network | Forward Propagation | Architecture
+    1. RNN_architecture.ipynb
+
+ 
+57  RNN Sentiment Analysis | RNN Code Example in Keras | CampusX
+    Do these practical
+    integer-encoding-simplernn.ipynb    https://colab.research.google.com/drive/1uY7NEHi59w4FkB8TViwLjUDKxgCA8W5G?usp=sharing
+    sentiment-analysis-simplernn.ipynb  https://colab.research.google.com/drive/1FLJZ0LeMiW_6OkzFrC-o035YZPBFEFR4?usp=sharing
+
+63  LSTM | Part 3 | Next Word Predictor Using | CampusX
+    lstm-project.ipynb   https://colab.research.google.com/drive/1e55Lnl0I0gFgzrbOwEAGsqmnKKwAWpRO?usp=sharing
+
+
+65  Deep RNNs | Stacked RNNs | Stacked LSTMs | Stacked GRUs | CampusX
+    deep-rnns.ipynb https://colab.research.google.com/drive/1c4eN4cPxajCpFG6yr1mAUi3sV1JaGLDY?usp=sharing
+	see code implementation of 
+		Deep LSTM and Deep GRU
+
+66  Bidirectional RNN | BiLSTM | Bidirectional LSTM | Bidirectional GRU
+    Code in lecture taught
+
+74: @24:09 scaled_self_attention.ipynb
+77: bertviz_tutorial.ipynb
