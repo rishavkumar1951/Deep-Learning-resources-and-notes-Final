@@ -1,0 +1,40 @@
+self attention take static embedding and generate samrt contextual embedding which can be used further in transformer.
+Context of word will be preserved.
+
+Embedding is just meaning represtion in vector form which is static.
+
+Self attention help to store dynamic contexutal meaning of word.
+
+
+self attention : benefit: parallel and context maintain
+disad: postion not stored
+
+Activation apply on : i/p layer and hiiden layer activastion fxn
+
+Internal weights ke variation ko internal covariate shift kehte hai. Normalization isko remove karta hai.
+
+Layer and Bacth Normalization : To normalize activation fxxn
+
+batch normalization: across batch  -> vertically
+
+layer normalization: across feature -> hotizontally
+
+layer norm is used bcz embedding me 0 wale rows sirf khud ko effect karega kisi or ko nhi during normalization calcn.
+
+Why residual in transformer ?  Since, in nn there is vanishing gradient so, to skip this we by pass actual vecctor so that weight will be updated. Weight upate bahut chota nhi hoga.
+Ek alternate path provide karte hai taaki agar kuch galat ya unwanted update ho to aage jaake wapas se wo initial reset ho jaaye. 
+
+self attention me saare calculation linear hai so non-linearity capture nhi hoga isliye FFNN laga ke non-linearity capture karenge.
+
+Multihead attention is cross attention in decoder bcz it has input from decoder and encode both.
+
+cross attention: do sequence ke beech me similarity nikalne ka tarika hai cross attention.
+
+cross attention me dono sequence ka input jata hai.
+	query = output sequence
+	key and value = input sequence
+	here o/p sequence is in terms of input seq
+	while in self attention output seq is in terms of o/p seq.
+
+Bahdanau me nn lagate hai while luaong me dot product.
+
